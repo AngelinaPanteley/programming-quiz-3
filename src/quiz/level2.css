@@ -1,0 +1,24 @@
+.room {
+  background: #7ed1d4;
+}
+
+.room .cactus {
+  transform: scale(-1, 1);
+}
+
+.room .books {
+top: 130px;
+left: 248px;
+}
+
+.room .clock {
+  transform: rotate(-90deg);
+}
+
+.room .picture {
+  transform: scale(0.5);
+}
+
+.room .vase {
+  fill: #c69495;
+}
